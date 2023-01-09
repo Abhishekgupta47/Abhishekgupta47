@@ -11,12 +11,12 @@
     </a>
   <h1>
   hey there
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30px"/>
+  <img src="https://www.shutterstock.com/image-photo/hello-welcome-symbol-concept-words-on-2146046059">
   </h1>
 </div>
 
 <div id="Bannergif" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" height="200"/>
   
   ---
 </div>
