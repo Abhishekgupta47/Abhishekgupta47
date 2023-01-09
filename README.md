@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <br />
 
-hi, i'm [Abhishek Gupta](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
   
@@ -33,6 +29,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
    
 ### :man_technologist: About Me :
   I am a BCA Graduate and Open-source Advocate🥑
+    <br />
+
+hi, i'm [Abhishek Gupta](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source
  
    [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Hashnode&logoColor=white)](https://twitter.com/AGupta047)
 
