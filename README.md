@@ -11,7 +11,8 @@
     </a>
   <h1>
   hey there
-  <img src="https://www.shutterstock.com/image-photo/hello-welcome-symbol-concept-words-on-2146046059">
+    <br/>
+    :smile:
   </h1>
 </div>
 
