@@ -5,10 +5,7 @@
     </a>
     <a href="https://www.linkedin.com/in/abhishek-gupta-2588571b9/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/learner392001" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram Badge"/>
-    </a>
+   
   <h1>
   hey there
     <br/>
